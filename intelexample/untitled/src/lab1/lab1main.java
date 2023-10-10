@@ -10,5 +10,6 @@ public class lab1main {
 		WriterInfo.printInfo(w2);
 		WriterInfo.printInfo(w3);
 		WriterInfo.printInfo(w4);
+		System.out.println("Hello World!");
 	}
 }
